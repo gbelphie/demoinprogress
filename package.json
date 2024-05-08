@@ -4,9 +4,8 @@
   "private": true,
   "dependencies": {
     "@line/liff": "2.23.2"
-  
   }
   "scripts": {
-  "build": "CI = npm run build"
+    "build": "CI = npm run build"
   }
 }
