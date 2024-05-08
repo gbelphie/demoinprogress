@@ -8,5 +8,5 @@
   }
   "scripts": {
   "build": "your_build_command_here"
-
+  }
 }
