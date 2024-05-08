@@ -6,4 +6,7 @@
     "@line/liff": "2.23.2"
   
   }
+  "scripts": {
+  "build": "npm run build"
+}
 }
