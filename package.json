@@ -7,6 +7,6 @@
   
   }
   "scripts": {
-  "build": "npm_run_build"
-}
+  "build": "your_build_command_here"
+
 }
